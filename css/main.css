@@ -1,0 +1,18 @@
+#content {
+    display: inline;
+    float: left;
+    width: auto;
+    height: 100%;
+    
+}
+
+#top {
+    padding-top: 20px;
+}
+
+
+
+.center {
+   text-align: center
+}
+
